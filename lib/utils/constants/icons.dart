@@ -1,0 +1,16 @@
+const String homeIcon = 'assets/icons/homeIcon.svg';
+const String likeIcon = 'assets/icons/likeIcon.svg';
+const String userIcon = 'assets/icons/userIcon.svg';
+const String categoryIcon = 'assets/icons/categoryIcon.svg';
+const String shopIcon = 'assets/icons/storeIcon.svg';
+const String searchIcon = 'assets/icons/searchIcon.svg';
+const String forwardIcon = 'assets/icons/forwardIcon.svg';
+const String cartIcon = 'assets/icons/cartIcon.svg';
+const String backArrowIcon = 'assets/icons/backIcon.svg';
+const String minusIcon = 'assets/icons/minusIcon.svg';
+const String plusIcon = 'assets/icons/plusIcon.svg';
+const String deleteIcon = 'assets/icons/deleteIcon.svg';
+const String termsIcon = 'assets/icons/termsAndConditionsIcon.svg';
+const String deactivateIcon = 'assets/icons/deactivateIcon.svg';
+const String logOutIcon = 'assets/icons/logOutIcon.svg';
+const String editIcon = 'assets/icons/editIcon.svg';
